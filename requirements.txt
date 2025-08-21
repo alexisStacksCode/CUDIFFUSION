@@ -1,0 +1,6 @@
+gradio
+stable-diffusion-cpp-python
+# stable-diffusion-cpp-python -C cmake.args="-DSD_CUDA=ON"
+# stable-diffusion-cpp-python -C cmake.args="-DSD_METAL=ON"
+# stable-diffusion-cpp-python -C cmake.args="-DSD_VULKAN=ON"
+# stable-diffusion-cpp-python -C cmake.args="-DGGML_OPENBLAS=ON"

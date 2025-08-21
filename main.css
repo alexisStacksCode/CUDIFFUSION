@@ -1,0 +1,14 @@
+.sidebar .toggle-button
+{
+    display: none;
+}
+
+.generate-image-button
+{
+    font-size: 30px;
+}
+
+footer
+{
+    visibility: hidden;
+}
